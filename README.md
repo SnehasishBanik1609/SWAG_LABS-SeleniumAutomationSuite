@@ -10,3 +10,6 @@ Log out from the application.
 
 Java Version: JavaSE-1.8
 using Selenium WebDriver
+
+POM.xml - consists of all maven dependencies.
+Followed Page Object Model design pattern.
